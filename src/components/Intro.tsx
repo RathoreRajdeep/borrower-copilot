@@ -61,7 +61,7 @@ export default function Intro({ onStart, onPersona }: Props) {
         </section>
 
         <footer className="mt-16 pt-6 border-t border-rule font-display italic text-muted">
-          Every number the app gives you has a one-sentence why. Every rule lives in RULES.md and can be changed.
+          Every number the app gives you has a one-sentence why — so you can argue it in the branch, not just accept it.
         </footer>
       </div>
     </div>
